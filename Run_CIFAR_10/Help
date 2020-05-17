@@ -1,0 +1,1 @@
+This file includes all requirment codes to train the ResNet on CIFAR-10 dataset to predict the rotations by multiples of 45 and 90 degrees.
