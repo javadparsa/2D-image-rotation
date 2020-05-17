@@ -1,0 +1,1 @@
+This file includes all requirment codes to train the ResNet on Tinyimagenet-200 dataset to predict the rotations by multiples of 90 degrees.
