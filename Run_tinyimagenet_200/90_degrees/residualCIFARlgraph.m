@@ -1,6 +1,4 @@
 % lgraph = residualCIFARlgraph(netWidth,numUnits,unitType) creates a layer
-% graph for CIFAR-10 data with residual connections.
-%
 % netWidth is the network width, defined as the number of filters in the
 % first 3-by-3 convolutional layers of the network.
 %
